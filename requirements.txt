@@ -1,4 +1,6 @@
 flask
 gunicorn
+supabase
 requests
 openai
+python-dotenv
