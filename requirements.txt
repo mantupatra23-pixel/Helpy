@@ -1,6 +1,6 @@
-flask
+Flask
 gunicorn
 supabase
 requests
-openai
 python-dotenv
+openai
